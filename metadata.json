@@ -1,0 +1,6 @@
+{
+  "name": "Sony Kalam | Workflow Automation",
+  "description": "Production automation engineering, custom n8n cloud pipelines, and API integrations by Sony Kalam.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
